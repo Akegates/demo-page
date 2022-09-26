@@ -27,3 +27,4 @@
 * https://training.github.com/downloads/github-git-cheat-sheet.pdf
 * https://marklodato.github.io/visual-git-guide/index-en.html
 * https://www.youtube.com/watch?v=USjZcfj8yxE
+* https://www.youtube.com/watch?v=DVRQoVRzMIY
