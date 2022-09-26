@@ -1,5 +1,9 @@
 # demo-page
 
+# Pages
+
+* [sample-sites](https://akegates.github.io/demo-page/sample-sites/index.html)
+
 ## CLI basics
 
 ### UNIX commands
