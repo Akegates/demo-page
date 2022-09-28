@@ -27,6 +27,7 @@
 * `git status`
 * `git diff`
 * `git merge`
+* `git commit`
 * https://git-scm.com/book/en/v2
 * https://training.github.com/downloads/github-git-cheat-sheet.pdf
 * https://marklodato.github.io/visual-git-guide/index-en.html
