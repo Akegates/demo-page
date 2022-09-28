@@ -33,3 +33,8 @@
 * https://marklodato.github.io/visual-git-guide/index-en.html
 * https://www.youtube.com/watch?v=USjZcfj8yxE
 * https://www.youtube.com/watch?v=DVRQoVRzMIY
+
+### HTML
+
+* https://www.w3schools.com/tags/
+
