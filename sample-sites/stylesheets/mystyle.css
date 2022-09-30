@@ -1,6 +1,13 @@
-p,h1,h2,h3,li {
+p,li {
 
-    color: blue;
+    font-size: 17px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
 
+h1{
+
+    font-size: 65;
+    text-align: center;
 
 }
