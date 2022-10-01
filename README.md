@@ -33,6 +33,8 @@
 - https://www.youtube.com/watch?v=USjZcfj8yxE
 - https://www.youtube.com/watch?v=DVRQoVRzMIY
 
+- [Git workflow](GITWORKFLOW.md)
+
 ### HTML
 
 - https://www.w3schools.com/tags/
