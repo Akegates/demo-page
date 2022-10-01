@@ -16,7 +16,7 @@
 1. When you start your work issue `git pull origin main`
 2. Create a new branch with `git checkout -b <branchname>`  
 
-In a cycle you can do it several times:
+In a cycle you can do steps 3. to 6. several times:
 
 3. Do your work, modify/add/delete files in the repository
 4. When you ready to commit issue `git pull origin <branchname>`
