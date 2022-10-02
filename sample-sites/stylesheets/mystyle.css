@@ -28,6 +28,10 @@ body {
 
     margin: 0 auto;
     padding: 0 20px 20px 20px;
+    width: 600px;
+    border: 4px solid black;
+    background-color: rgb(166, 196, 96);
+
 }
 
 html {
