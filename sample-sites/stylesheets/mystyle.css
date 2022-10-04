@@ -22,7 +22,7 @@ h1{
 
 #subtitle{
     text-align: center;
-    font-size: larger;
+    font-size: 22px;
 
 
 
@@ -40,7 +40,7 @@ h1{
     color: rgb(0, 0, 0);
     font-family: Helvetica, Arial;
     font-weight: 400;
-    padding: 0 0 0 40px;
+    padding: 0 0 0 24px;
 
 }
 
