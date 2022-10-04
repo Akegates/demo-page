@@ -1,5 +1,5 @@
 p{
-    font-size: 20px;
+    font-size: 20px bolder;
 }
 
 li {
@@ -20,6 +20,14 @@ h1{
 
 }
 
+#subtitle{
+    text-align: center;
+    font-size: larger;
+
+
+
+}
+
 #TOP {
     /*this makes text italic*/
     font-style: italic;
@@ -32,6 +40,7 @@ h1{
     color: rgb(0, 0, 0);
     font-family: Helvetica, Arial;
     font-weight: 400;
+    padding: 0 0 0 40px;
 
 }
 
