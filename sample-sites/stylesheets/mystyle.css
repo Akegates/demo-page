@@ -1,6 +1,10 @@
-p,li {
+p{
+    font-size: 20px;
+}
 
-    font-size: 17px;
+li {
+
+    font-size: 18px;
     line-height: 2;
     letter-spacing: 1px;
 }
@@ -26,6 +30,9 @@ h1{
 
     font-size: 22px;
     color: rgb(0, 0, 0);
+    font-family: Helvetica, Arial;
+    font-weight: 400;
+
 }
 
 body {
@@ -33,7 +40,7 @@ body {
     margin: 0 auto;
     padding: 0 20px 20px 20px;
     width: 800px;
-    border: 4px solid black;
+    border: 6px solid #5f6d81;
     background-color: rgb(149, 152, 140);
 
 }
@@ -41,6 +48,8 @@ body {
 html {
 
     background-color: rgb(180, 167, 140);
+    font-family: "Kanit",sans-serif;
+    font-size: 18px;
 }
 
 img{
