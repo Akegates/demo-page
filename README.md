@@ -39,4 +39,7 @@
 
 - https://www.w3schools.com/tags/
 
-Barmi
+### Javascript
+
+- https://www.w3schools.com/js/
+- https://javascript.info/
