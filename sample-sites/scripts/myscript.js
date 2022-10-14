@@ -1,2 +1,4 @@
-    var myHeading = document.querySelector(`h1`);
-    myHeading.textContent = `Boogie!`;
+/* global document */
+
+var myHeading = document.querySelector(`h1`);
+myHeading.textContent = `Boogie!`;
